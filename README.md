@@ -1,2 +1,3 @@
-# next-cli-tool-48kn
-A repository to test GitHub automation for issue management
+# Next Cli Tool 48Kn
+
+A repository to test GitHub automation for issue management.
